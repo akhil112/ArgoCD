@@ -30,7 +30,7 @@ metadata:
   name: my-service
   namespace: myapp
 spec:
-  type: LoadBalancer
+
   selector:
     app: nginx
   ports:
